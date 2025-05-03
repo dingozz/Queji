@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/dingozz/donation-web.git
-git add .
-git commit -m "Subiendo web de donaciones"
-git push -u origin main
